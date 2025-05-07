@@ -6,6 +6,8 @@ A clean, responsive recipe page built with HTML and CSS. This project is part of
 
 ![Recipe Page Preview](./screenshot.png)
 
+➡️ Live site: https://dzik0.github.io/recipe-page/
+
 ## 🚀 Features
 
 - Fully responsive layout
